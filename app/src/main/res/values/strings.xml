@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Almadi-midT2</string>
+
+    <string-array name="city">
+        <item>riyadh</item>
+        <item>london</item>
+        <item>munich</item>
+    </string-array>
+
+    <string name="welcome">Welcome to the project of Meteb Almadi, 200304</string>
+
+</resources>
